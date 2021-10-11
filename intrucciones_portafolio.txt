@@ -1,0 +1,16 @@
+Para poder mirar el portafolio y su  pleno funcionamiento por favor siga
+las siguientes instruccines:
+1. Encienda su servidor web.
+2.Encienda su Mysql
+2.Encontrara una carpeta llamada "vista" donde dentro de ella abra un archivo .php llamado
+"inicio" aqui podra encontrar el index del portafolio.
+Dentro de esta misma carpeta podra encontrara varios archivos con extension.php donde estara
+el codigo html de las diferentes vistas y paginas que tendra acceso.
+3.Para poder tener pleno funcionamiento del CRUD y la base de datos en la carpeta
+ que se llama "controlador" encontrara un archivo con extension .sql 
+Por favor importe este archivo al sistemas gestor de base de datos preferiblemente
+mariaDB.
+4.Las demas carpetas son el complemento del portafolio.
+5.Ante cualquier duda por favor comuniquese al siguiente correo
+kevintafur@gmail.com
+
